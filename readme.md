@@ -2,7 +2,7 @@
 
 ##Analisis discriminante para la prediccion de enfermedades renales
 
-https://github.com/Lambdev-lab/Datathon/assets/logolambdev.png
+https://github.com/Lambdev-lab/CKDetector/assets/logolambdev.png
 
 ####Benemerita Universidad Autonoma de Aguascalientes
 
@@ -11,4 +11,4 @@ https://github.com/Lambdev-lab/Datathon/assets/logolambdev.png
 ##### Karla Valeria Perez Perez
 ##### Rogelio Robledo Moreno
 
-https://github.com/Lambdev-lab/Datathon/assets/ckdetector.jfif
+https://github.com/Lambdev-lab/CKDetector/assets/ckdetector.jfif
